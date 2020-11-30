@@ -28,20 +28,6 @@
               
                 Contacto
            </a>
-            <a href="https://paypal.me/notihoy?locale.x=es_XC" class="block ml-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white">
-              
-                 Donar 
-            </a>
-          </div>
-          <div>
-            <a href="registro.html" class="inline-block text-base px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white m-4 lg:mt-0">Registrate</a>
-          </div>
-          <div>
-            <a href="login.html" class="inline-block text-base px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white m-4 lg:mt-0">Iniciar Sesión</a>
-          </div>
-        </div>
-      </nav>
-
      
 ```
 
