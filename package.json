@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^24.0.0",
     "autoprefixer": "^10.0.2",
     "postcss-cli": "^8.3.0",
     "tailwindcss": "^1.9.6"
